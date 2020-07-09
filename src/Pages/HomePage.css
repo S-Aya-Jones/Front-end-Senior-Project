@@ -1,0 +1,15 @@
+.Photo {
+  background-image: linear-gradient(#cfc0bdc2, #7f9183af),
+    url(../Images/HomePhoto.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 90vh;
+}
+.HomePhoto-text {
+  font-size: 100px;
+  font-weight: 300;
+  color: #586f6b;
+  float: left;
+  padding-top: 10%;
+}

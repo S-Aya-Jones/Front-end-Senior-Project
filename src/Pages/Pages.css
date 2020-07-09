@@ -1,0 +1,400 @@
+.lightBackGround {
+  background-color: whitesmoke;
+  height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
+.backGround {
+  background-color: rgb(27, 27, 27);
+  height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
+.titleEnergyProfile {
+  color: goldenrod;
+  font-weight: 200;
+  padding-left: 40px;
+  font-size: 40px;
+  margin-top: 25px;
+}
+.title {
+  color: rgba(90, 8, 90, 0.431);
+  font-weight: 700;
+  padding-left: 40px;
+  font-size: 50px;
+  margin-top: 85px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.titlePie {
+  font-weight: 300;
+}
+.titlessss {
+  float: left;
+  font-weight: 100;
+  color: rgb(228, 198, 122);
+}
+.pieContainer {
+  float: left;
+  color: #99adef;
+  padding-bottom: 20px;
+}
+.titleBar {
+  font-weight: 100;
+}
+.BarContainer {
+  float: right;
+  color: #99adef;
+  padding-bottom: 10px;
+}
+.HoldMyTitle {
+  float: left;
+}
+.ControlStamp {
+  float: left;
+}
+.backhome {
+  float: right;
+}
+
+.HoldThisStuff {
+  margin: 60px 150px 0 0;
+  display: inline-block;
+}
+
+.HoldThisShit {
+  display: inline-block;
+  width: 13%;
+  padding: 90px 0 0 25px;
+  margin-bottom: 100px;
+}
+
+.TimerShit {
+  display: inline-block;
+}
+.Timer {
+  font-weight: 100;
+  float: left;
+  margin-left: 250px;
+}
+
+.MoreTimerShit {
+  margin-right: 430px;
+}
+.T1 {
+  float: right;
+}
+.T2 {
+  float: right;
+}
+.T3 {
+  float: right;
+}
+
+.T4 {
+  float: right;
+  color: rgb(192, 238, 233);
+}
+
+.OnShit {
+  float: right;
+}
+.OnShitSmart {
+  float: left;
+  padding-left: 90px;
+}
+.OffShitSmart {
+  float: right;
+}
+
+.OffShit {
+  float: left;
+}
+
+.cBox {
+  margin-top: 5px;
+}
+
+.HomeButt {
+  float: left;
+  padding-left: 35%;
+}
+
+.AwayButt {
+  float: left;
+  padding-right: 35%;
+}
+
+.TipsTabs {
+  display: inline-block;
+  width: 80%;
+}
+
+.titless {
+  color: goldenrod;
+  font-weight: 200;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+.tempthing {
+  float: right;
+}
+
+.OnOff {
+  display: inline-block;
+  padding-left: 0%;
+  padding-top: 5px;
+  color: #66cdaa;
+}
+
+.Words {
+  text-align: initial;
+  color: rgb(255, 255, 255);
+  font-weight: 100;
+}
+
+.SmartButtonStuff {
+  float: right;
+  padding-right: 25%;
+}
+
+.HomeButtonStuff {
+  float: left;
+  padding-left: 25%;
+}
+
+.AirConditioningButtons {
+  float: left;
+  padding-right: 15px;
+}
+
+.HeatingButtons {
+  float: left;
+  padding-left: 15px;
+}
+
+.FanButtonss {
+  float: left;
+}
+
+.HomeModeStamp {
+  float: right;
+  font-weight: 200;
+}
+
+.titlesss {
+  color: goldenrod;
+  font-weight: 200;
+}
+
+.Container15 {
+  padding-top: 10%;
+}
+.top {
+  display: inline-block;
+}
+.titleshit {
+  float: left;
+}
+.contain {
+  display: inline-block;
+  width: 39%;
+  padding-top: 4%;
+}
+.Spending {
+  float: left;
+  padding-top: 7%;
+}
+.SpendingTitle {
+  font-weight: 100;
+  color: rgb(228, 198, 122);
+}
+.containMore {
+  display: inline-block;
+  width: 100%;
+}
+.DailyEnergy {
+  float: left;
+  width: 100%;
+}
+.thatenergy {
+  font-weight: 100;
+  color: rgb(228, 198, 122);
+  float: left;
+  padding-left: 15%;
+}
+.SpendThatShit {
+  display: inline-block;
+}
+.SpendingTitle {
+  float: left;
+}
+.OkaySpend {
+  float: right;
+  padding-left: 315px;
+}
+
+.BigEnergy {
+  padding-right: 30px;
+}
+.ContainCharts {
+  display: inline-block;
+  margin-top: -100px;
+  margin-left: 0px;
+}
+
+.Pie1 {
+  float: left;
+  margin-top: 90px;
+  margin-right: 100px;
+}
+
+.Pie2 {
+  float: left;
+  margin-top: 90px;
+  margin-left: 100px;
+}
+.Bar1 {
+  margin-top: -65px;
+  float: left;
+}
+.RealLifeGoals {
+  margin-bottom: 50px;
+  color: white;
+  font-weight: 200;
+  font-size: 25px;
+  padding-left: 25px;
+}
+.MonthlyUsage {
+  padding-left: 24%;
+}
+
+.Legends {
+  display: inline-block;
+}
+
+.legendTitles {
+  margin-top: -14px;
+  padding-left: 10px;
+  float: left;
+  font-size: 13px;
+}
+
+.legend1 {
+  background-color: rgb(231, 189, 172);
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 22px;
+}
+
+.legend2 {
+  background-color: rgb(78, 78, 243);
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 25px;
+}
+.legend3 {
+  background-color: #e7cfac;
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 20px;
+}
+.legend4 {
+  background-color: #b8dd95;
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 15px;
+}
+.legend5 {
+  background-color: #f7d5cb;
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 8px;
+}
+.legend6 {
+  background-color: #99adef;
+  float: left;
+  content: " ";
+  height: 13px;
+  width: 13px;
+  margin-left: 8px;
+}
+
+.allLegends {
+  margin-top: 20px;
+  margin-left: 45px;
+  float: left;
+  padding-right: 900px;
+}
+
+.Settwo {
+  margin-left: 5px;
+}
+.ConsputionContainerWheel {
+  float: left;
+  margin-top: -45px;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+.ConsumptionTitle {
+  font-weight: 200;
+  font-size: 25px;
+  color: white;
+}
+.ProgressTitles {
+  float: right;
+  margin-top: 55px;
+  padding-right: 45px;
+  font-weight: 200;
+  font-size: 25px;
+  color: white;
+}
+
+.Tipper {
+  margin-top: -30px;
+  margin-left: 20px;
+}
+
+.TipTitle {
+  font-size: 80%;
+  color: rgb(255, 157, 0);
+  margin-top: 4px;
+  float: left;
+}
+
+.Hazard {
+  color: rgb(255, 157, 0);
+  margin-left: 15px;
+  margin-right: 15px;
+  float: left;
+}
+.ColorLegend {
+  color: white;
+}
+
+.Modal {
+  text-align: center;
+  color: white;
+  margin-top: 300px;
+}
+.Floatright {
+  float: left;
+  background-color: indianred;
+}
+.Please {
+  float: right;
+}
+.Family {
+  width: 25%;
+}

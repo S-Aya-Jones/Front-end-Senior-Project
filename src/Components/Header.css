@@ -1,0 +1,60 @@
+.Container {
+  display: inline-block;
+  width: 100%;
+}
+
+.Header {
+  background-color: #1b1b1b;
+  display: inline-block;
+  width: 100%;
+  border-bottom: 1px rgba(184, 221, 149, 0.226) solid;
+}
+
+.MenuButton {
+  float: left;
+  margin-top: 15px;
+}
+
+.Title {
+  color: #faddd7;
+  font-weight: 200;
+  font-size: 40px;
+  float: left;
+  width: 15%;
+}
+
+.Tabs {
+  width: 70%;
+  font-size: 10px;
+  height: 4px;
+  color: aliceblue;
+  float: right;
+  margin-right: 15px;
+  margin-top: 7px;
+}
+
+.EnergyTips {
+  float: right;
+  margin-right: -12px;
+}
+
+.Home {
+  float: right;
+  margin-right: -12px;
+}
+
+.EnergyProfile {
+  float: right;
+  margin-right: -12px;
+}
+
+.Controls {
+  float: right;
+  margin-right: -12px;
+}
+
+.Recycle {
+  padding-top: 15px;
+  margin-left: -55px;
+  width: 4%;
+}

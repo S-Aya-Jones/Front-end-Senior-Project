@@ -1,0 +1,13 @@
+.lightBackGround {
+  background-color: whitesmoke;
+  height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
+
+.darkBackGround {
+  background-color: rgb(27, 27, 27);
+  height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
