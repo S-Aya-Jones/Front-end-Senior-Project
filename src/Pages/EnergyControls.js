@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Components/Header";
 import "../Pages/Pages.css";
 import HomeModeButton from "../Components/Buttons/HomeModeButton";
 import SmartModeButton from "../Components/Buttons/SmartModeButton";
@@ -19,7 +18,6 @@ class EnergyTips extends React.Component {
   render() {
     return (
       <div className={this.props.colorMode}>
-        <Header />
         <ToggleButton onClick={this.handleChange} />
         <button onClick={this.handleChange} />
         <div>

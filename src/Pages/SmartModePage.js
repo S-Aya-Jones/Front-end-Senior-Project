@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Components/Header";
 import ON from "../Components/Buttons/onButton";
 import OFF from "../Components/Buttons/OffButton";
 import Spend from "../Components/Buttons/spendingButton";
@@ -10,7 +9,6 @@ class SmartModePage extends React.Component {
   render() {
     return (
       <div className="backGround">
-        <Header />
         <div className="HoldThisShitSmart">
           <h1 className="titlesss">Heating and Air-Conditioning! </h1>
           <div className="contain">

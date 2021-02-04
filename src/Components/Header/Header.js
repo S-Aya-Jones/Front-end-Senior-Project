@@ -1,13 +1,13 @@
 import React from "react";
 import headerCss from "./Header.css";
-import MenuButton from "./Buttons/MenuButton";
-import TipButton from "./Tabs/TipTab";
-import ControlButton from "./Tabs/ControlTabs";
-import ProfileButton from "./Tabs/ProfileTab";
-import HomeButton from "./Tabs/HomeTab";
-import SignInModal from "./Modal/SignInModal";
-import LogIn from "./Tabs/LoginTab";
-import Recycle from "../Images/Recycle.svg";
+import MenuButton from "../Buttons/MenuButton";
+import TipButton from "../Tabs/TipTab";
+import ControlButton from "../Tabs/ControlTabs";
+import ProfileButton from "../Tabs/ProfileTab";
+import HomeButton from "../Tabs/HomeTab";
+import SignInModal from "../Modal/SignInModal";
+import LogIn from "../Tabs/LoginTab";
+import Recycle from "../../Images/Recycle.svg";
 
 class Header extends React.Component {
   constructor(props) {

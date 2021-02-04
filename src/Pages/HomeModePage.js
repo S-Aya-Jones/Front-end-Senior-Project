@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Components/Header";
 import AirConditioningButton from "../Components/Buttons/AirConditioningButton";
 import HeatingButton from "../Components/Buttons/HeattingButton";
 import "../Pages/Pages.css";
@@ -15,7 +14,6 @@ class HomeModePage extends React.Component {
   render() {
     return (
       <div className="backGround">
-        <Header />
         <div>
           <div className="backhome">
             <BackHome />

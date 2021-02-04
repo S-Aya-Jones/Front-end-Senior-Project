@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Components/Header";
 import "../Pages/Pages.css";
 import PieCharts from "../Components/Charts/ConsumptionWheel";
 import Usage from "../Components/Charts/UsageWheel";
@@ -10,7 +9,6 @@ class EnergyProfile extends React.Component {
   render() {
     return (
       <div className="backGround">
-        <Header />
         <div>
           <h1 className="titleEnergyProfile"> Your Energy Profile</h1>
         </div>
