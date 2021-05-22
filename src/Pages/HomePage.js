@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Components/Header";
 import "../Pages/Pages.css";
 import "../Pages/HomePage.css";
 
@@ -7,7 +6,6 @@ class HomePage extends React.Component {
   render() {
     return (
       <div className="backGround">
-        <Header />
         <div className="Photo">
           <h1 className="HomePhoto-text">Choice Energy</h1>
         </div>
